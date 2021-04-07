@@ -20,6 +20,11 @@ atau
 2. Masuk ke folder src dan pilih `Tucil3Stima.sln`
 3. Pada bagian atas, tekan tombol panah hijau
 
+## Cara menggunakan
+1. Klik browse, kemudian pilih file yang diinginkan
+2. Pilih tempat awal dan tujuan
+3. Klik submit
+
 ## Penting
 * Pastikan file yang akan dibaca menggunakan format .txt
 * Format isi file seperti contoh pada folder test
