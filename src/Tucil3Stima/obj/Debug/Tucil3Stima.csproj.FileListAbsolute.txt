@@ -1,0 +1,15 @@
+D:\_CacaITB\_Jurusan\Semester4\Stima\Tugas\Tucil3\Tucil3Stima\Tucil3Stima\bin\Debug\Tucil3Stima.exe.config
+D:\_CacaITB\_Jurusan\Semester4\Stima\Tugas\Tucil3\Tucil3Stima\Tucil3Stima\bin\Debug\Tucil3Stima.exe
+D:\_CacaITB\_Jurusan\Semester4\Stima\Tugas\Tucil3\Tucil3Stima\Tucil3Stima\bin\Debug\Tucil3Stima.pdb
+D:\_CacaITB\_Jurusan\Semester4\Stima\Tugas\Tucil3\Tucil3Stima\Tucil3Stima\obj\Debug\Tucil3Stima.csprojAssemblyReference.cache
+D:\_CacaITB\_Jurusan\Semester4\Stima\Tugas\Tucil3\Tucil3Stima\Tucil3Stima\obj\Debug\Tucil3Stima.Properties.Resources.resources
+D:\_CacaITB\_Jurusan\Semester4\Stima\Tugas\Tucil3\Tucil3Stima\Tucil3Stima\obj\Debug\Tucil3Stima.csproj.GenerateResource.cache
+D:\_CacaITB\_Jurusan\Semester4\Stima\Tugas\Tucil3\Tucil3Stima\Tucil3Stima\obj\Debug\Tucil3Stima.csproj.CoreCompileInputs.cache
+D:\_CacaITB\_Jurusan\Semester4\Stima\Tugas\Tucil3\Tucil3Stima\Tucil3Stima\obj\Debug\Tucil3Stima.exe
+D:\_CacaITB\_Jurusan\Semester4\Stima\Tugas\Tucil3\Tucil3Stima\Tucil3Stima\obj\Debug\Tucil3Stima.pdb
+D:\_CacaITB\_Jurusan\Semester4\Stima\Tugas\Tucil3\Tucil3Stima\Tucil3Stima\bin\Debug\AutomaticGraphLayout.dll
+D:\_CacaITB\_Jurusan\Semester4\Stima\Tugas\Tucil3\Tucil3Stima\Tucil3Stima\bin\Debug\AutomaticGraphLayout.Drawing.dll
+D:\_CacaITB\_Jurusan\Semester4\Stima\Tugas\Tucil3\Tucil3Stima\Tucil3Stima\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+D:\_CacaITB\_Jurusan\Semester4\Stima\Tugas\Tucil3\Tucil3Stima\Tucil3Stima\bin\Debug\Microsoft.Msagl.WpfGraphControl.dll
+D:\_CacaITB\_Jurusan\Semester4\Stima\Tugas\Tucil3\Tucil3Stima\Tucil3Stima\obj\Debug\Tucil3Stima.Form1.resources
+D:\_CacaITB\_Jurusan\Semester4\Stima\Tugas\Tucil3\Tucil3Stima\Tucil3Stima\obj\Debug\Tucil3Stima.csproj.CopyComplete
