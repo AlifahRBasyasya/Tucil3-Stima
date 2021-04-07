@@ -4,9 +4,6 @@
 ## Penyelesaian Pencarian Rute dengan Algoritma A*
 Merupakan Tugas Kecil 3 yang dibuat menggunakan bahasa pemrograman C# dan algoritma A* untuk menyelesaikan persoalan Pencarian Rute
 
-## Algoritma Decrease and Conquer
-Decrease and Conquer merupakan metode perancangan algoritma yang dimulai dengan mereduksi persoalan menjadi 2 upa-persoalan yang lebih kecil. Kemudian hanya memproses satu upa-persoalan saja. Seperti namanya, algoritma decrease and conquer terdiri atas dua tahap. Pertama, Decrease, yaitu mereduksi persoalan menjadi beberapa pesoalan yang lebih kecil. Kedua, Conquer, yaitu memproses satu upa-persoalan secara rekursif. Tidak terdapat tahap combine pada algoritma decrease and conquer.
-
 ## Requirement
 * Windows OS
 * Visual Studio (Opsional)
